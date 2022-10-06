@@ -17,7 +17,6 @@ Use numpy to find theta,x,y values.
 ### Step4:
 To visualize the data use plt.plot.
 
-
 ## Program:
 ```
 /*
